@@ -4,7 +4,7 @@
 <h6>Author : RKT </h6>
 
 
-NetCH3CK is a wifi connection identify tool.
+NetCH3CK is a wifi connection identifing tool.
 
 
 ### Setup ###
