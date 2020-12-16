@@ -25,7 +25,10 @@ sudo python netcheck.py
 
 ### Screenshots ###
 
-![Screenshot_2020-12-16_20-23-07](https://user-images.githubusercontent.com/69615463/102365505-a300e800-3fdd-11eb-914d-78ed5975fe25.png)
 
 ![Screenshot_2020-12-16_20-21-51](https://user-images.githubusercontent.com/69615463/102366840-1d7e3780-3fdf-11eb-9090-42dbd5216be3.png)
+
+![Screenshot_2020-12-16_20-23-07](https://user-images.githubusercontent.com/69615463/102365505-a300e800-3fdd-11eb-914d-78ed5975fe25.png)
+
+
 
