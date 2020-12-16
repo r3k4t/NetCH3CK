@@ -11,6 +11,8 @@ NetCH3CK is a wifi connection identifing tool.
 
 
 sudo apt install figlet
+<br>
+sudo pip install urllib
 
 
 ### Terminal Command ###
